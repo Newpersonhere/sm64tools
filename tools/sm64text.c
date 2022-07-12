@@ -5,7 +5,7 @@
 #include <stdint.h>
 #include <unistd.h>
 
-#define SM64TEXT_VERSION "0.2"
+#define SM64TEXT_VERSION "3.0"
 
 #define COUNT_OF(ARR) (sizeof(ARR)/sizeof(ARR[0]))
 
